@@ -2,9 +2,9 @@
 # argparse: An easy way to write user-friendly command-line interfaces,
 #           which composing of arguments.
 
-# Usage: type 'python3 Test-argparse.py -h' in Terminal
-#              python Test-argparse.py 1 2 3 4
-#              python Test-argparse.py 1 2 3 4 --sum
+# Usage: type 'python3 argparse.py -h' in Terminal
+#              python argparse.py 1 2 3 4
+#              python argparse.py 1 2 3 4 --sum
 
 import argparse
 
